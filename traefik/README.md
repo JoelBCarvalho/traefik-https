@@ -38,6 +38,5 @@ $ docker-compose up
 ## Directory content
 
 * **docker-compose.yml** : Docker-Compose file which contains the description of Traefik and all the boulder stack containers to get,
-* **acme.toml** : Traefik configuration file used by the Traefik container described above,
-* **manage_acme_docker_environment.sh**  Shell script which does all needed checks and manages the docker-compose environment.
+* **traefik.toml** : Traefik configuration file used by the Traefik container described above,
 
