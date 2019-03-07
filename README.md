@@ -26,7 +26,7 @@ Note: Use sudo to open up port 80. Without it, vagrant by default does not port 
 ```bash
 $ sudo vagrant ssh
 ```
-
+Note: If vagrant requires password, use *vagrant*
 ## Deploy
 
 Deploy the complete setup on a Docker host.
